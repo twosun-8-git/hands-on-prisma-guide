@@ -1,4 +1,4 @@
-# How to use dotenvx
+# How to use Prisma
 
 このリポジトリは Zenn の本 **[「手を動かして覚える Prisma 実践入門」](https://zenn.dev/cocomina/books/hands-on-prisma-guide)**
 と連動したリポジトリです。
